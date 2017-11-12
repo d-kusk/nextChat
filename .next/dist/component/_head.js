@@ -35,11 +35,6 @@ exports.default = function () {
       fileName: _jsxFileName,
       lineNumber: 8
     }
-  }), _react2.default.createElement('script', {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    }
-  }, '\n        // Initialize Firebase\n        var config = {\n          apiKey: "AIzaSyCLwcZsen50aK41hUI0Hj6SYnFKby0Phmo",\n          authDomain: "nextchat-471b2.firebaseapp.com",\n          databaseURL: "https://nextchat-471b2.firebaseio.com",\n          projectId: "nextchat-471b2",\n          storageBucket: "nextchat-471b2.appspot.com",\n          messagingSenderId: "850513022872"\n        };\n        firebase.initializeApp(config);\n      ')));
+  })));
 };
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudC9faGVhZC5qcyJdLCJuYW1lcyI6WyJSZWFjdCIsIkhlYWQiXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLEFBQU87Ozs7QUFDUCxBQUFPLEFBRVA7Ozs7Ozs7O2tCQUFlLFlBQUE7eUJBQ2IsY0FBQTs7Z0JBQUE7a0JBQUEsQUFDRTtBQURGO0FBQUEsR0FBQSxrQkFDRSxBQUFDOztnQkFBRDtrQkFBQSxBQUNFO0FBREY7QUFBQSw2Q0FDUSxNQUFOLEFBQVcsWUFBVyxTQUF0QixBQUE4Qix5Q0FBd0MsS0FBdEUsQUFBMEU7Z0JBQTFFO2tCQURGLEFBQ0UsQUFDQTtBQURBO2dEQUNRLEtBQVIsQUFBWTtnQkFBWjtrQkFGRixBQUVFLEFBQ0E7QUFEQTtzQkFDQSxjQUFBOztnQkFBQTtrQkFBQTtBQUFBO0FBQUEsS0FMUyxBQUNiLEFBQ0UsQUFHRTtBQUxOIiwiZmlsZSI6Il9oZWFkLmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9kYWlzdWtlL0RldmVsb3AvbmV4dENoYXQifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbXBvbmVudC9faGVhZC5qcyJdLCJuYW1lcyI6WyJSZWFjdCIsIkhlYWQiXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLEFBQU87Ozs7QUFDUCxBQUFPLEFBRVA7Ozs7Ozs7O2tCQUFlLFlBQUE7eUJBQ2IsY0FBQTs7Z0JBQUE7a0JBQUEsQUFDRTtBQURGO0FBQUEsR0FBQSxrQkFDRSxBQUFDOztnQkFBRDtrQkFBQSxBQUNFO0FBREY7QUFBQSw2Q0FDUSxNQUFOLEFBQVcsWUFBVyxTQUF0QixBQUE4Qix5Q0FBd0MsS0FBdEUsQUFBMEU7Z0JBQTFFO2tCQURGLEFBQ0UsQUFDQTtBQURBO2dEQUNRLEtBQVIsQUFBWTtnQkFBWjtrQkFKUyxBQUNiLEFBQ0UsQUFFRTtBQUFBOztBQUpOIiwiZmlsZSI6Il9oZWFkLmpzIiwic291cmNlUm9vdCI6Ii9Vc2Vycy9kYWlzdWtlL0RldmVsb3AvbmV4dENoYXQifQ==
