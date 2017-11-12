@@ -3,6 +3,6 @@ export const firebaseConfig = {
   authDomain: "***",
   databaseURL: "***",
   storageBucket: "***",
-  messagingSenderId: "***2",
+  messagingSenderId: "***",
   projectId: "***",
 };

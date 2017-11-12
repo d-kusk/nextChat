@@ -1,7 +1,7 @@
 import react from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 import GlobalHead from '../component/_head';
-import Chat from '../component/chat/index.js';
 
 export default () => (
   <div>
@@ -10,6 +10,8 @@ export default () => (
       <title>index</title>
     </Head>
     <h1>index</h1>
-    <Chat></Chat>
+    <nav>
+      <Link href="/chat" prefetch><a>Chat Room</a></Link>
+    </nav>
   </div>
 )
